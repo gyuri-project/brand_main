@@ -77,7 +77,7 @@ header{
 }
 
 .sub{
-    display: none;/*서브메뉴 안보이게 만들기*/
+    display: block;/*서브메뉴 안보이게 만들기*/
 }
 .nav li:hover .sub{
     display: block;/*서브메뉴 보이게 만들기*/
